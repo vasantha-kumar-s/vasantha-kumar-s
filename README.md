@@ -14,6 +14,8 @@
 <a href="https://www.linkedin.com/in/vasantha-kumar-s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vasantha-kumar-s" height="30" width="40" /></a>
 <a href="https://www.instagram.com/vasantha_kumar_s_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vasantha_kumar_s_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@vasanthakumar_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vasanthakumar_s" height="30" width="40" /></a>
+<a href="mailto:vasanthakumarselvaraj04@gmail.com"><img src="https://img.shields.io/badge/Email-%231DA1F2.svg?style=for-the-badge&logo=Gmail&logoColor=white" height="30" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
