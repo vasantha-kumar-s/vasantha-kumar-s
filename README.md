@@ -22,9 +22,10 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure AI](https://img.shields.io/badge/Azure%20AI-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-
-<! --- ### GitHub Stats
-<! --- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitty-vk&show_icons=true&theme=radical)
+<!--
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitty-vk&show_icons=true&theme=radical)
+-->
 
 
 ### GitHub Streak
