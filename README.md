@@ -31,6 +31,3 @@
 ### GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gitty-vk)
 
-
-### Leetcode Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/vasanth0609)
